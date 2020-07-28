@@ -1,3 +1,9 @@
-# Validaçao_de_clusters
-
-Procurando maximizar os valores estatisticos de Silhouette, Davie-bouldin e calinski
+# Validaçao de clusters
+<p>
+buscando realizar uma analise de clusters dentro de uma base dados consideravelmente grande, com foco em entender os valores estatisticos de 
+  <ul> 
+  <li>Silhouette</li>
+  <li>Davie-bouldin</li>
+  <li>Calinski</li>
+  </ul>
+ </p>
